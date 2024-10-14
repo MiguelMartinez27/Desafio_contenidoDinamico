@@ -1,3 +1,5 @@
 from django.shortcuts import render
 
-# Create your views here.
+
+def vista_empleados(request):
+    return render(request, "empleados/vista.html")
