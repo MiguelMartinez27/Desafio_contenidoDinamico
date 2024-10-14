@@ -16,14 +16,14 @@ Esta lista se visualizará en una plantilla HTML.
 Clonar este repositorio:
 
 ```
-git clone https://github.com/usuario/desafio-django-empleados.git
-cd desafio-django-empleados
+git clone https://github.com/MiguelMartinez27/Desafio_contenidoDinamico.git
+cd Desafio_contenidoDjango
 ```
 Crear y activar el entorno virtual:
 ```
-python -m venv myenv
+python -m venv venv
 source myenv/bin/activate  # macOS/Linux
-myenv\Scripts\activate  # Windows
+venv\Scripts\activate  # Windows
 ```
 Instalar las dependencias:
 ```
